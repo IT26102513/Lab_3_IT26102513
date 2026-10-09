@@ -4,7 +4,7 @@ int main(void)
 {	
 	float height, cmeters, work, power;
 	const float(gravi) = 9.80;
-	const float(effi) = 0.9;   //gravitational constant and efficiency const
+	const float(effi) = 0.9;   //gravitational constant and efficiency constant
 	
 	printf("Enter height of the dam: ");
 	scanf("%f", &height);
